@@ -3,6 +3,7 @@
     "description": "Qiniu云存储非官方API",
     "keywords": ["sdk", "cloud storage", "api", "qiniu"],
     "license": "MIT",
+	"type": "library",
     "authors": [
         {
             "name": "purpen",
