@@ -408,7 +408,7 @@ http://php-sdk.qiniudn.com/jobs.jpg?imageMogr/v2/auto-orient/thumbnail/!50p/grav
 
 (The MIT License)
 
-Copyright (c) 2012 hfcorriez &lt;hfcorriez@gmail.com&gt;
+Copyright (c) 2014 purpen &lt;purpen.w@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
